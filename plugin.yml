@@ -1,0 +1,10 @@
+name: InfiniteDispenserShit
+main: jerbear.mc.dispense.InfiniteDispenserShit
+version: 1
+author: JerBear
+commands:
+   dispenseshit:
+      description: Toggle infinite dispensing on/off to whichever dispenser block you are looking at
+      usage: /dispenseshit
+      permission: dispenseshit.use
+      permission-message: You don't have permission and also you're mom gay.
